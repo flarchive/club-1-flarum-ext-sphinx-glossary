@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of club-1/flarum-ext-sphinx-glossary.** Not for installation: use [Packagist](https://packagist.org/packages/club-1/flarum-ext-sphinx-glossary) or the [upstream repository](https://github.com/club-1/flarum-ext-sphinx-glossary).
 
-**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v1.0.3) · License: `AGPL-3.0-or-later` · Flarum: `^1.2.0`
+**7** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v1.0.3) · License: `AGPL-3.0-or-later` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2023-04-17 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v0.1.0) |
+| `v0.2.0` | 2023-04-18 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v0.2.0) |
+| `v0.3.0` | 2023-04-19 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v0.3.0) |
+| `v1.0.0` | 2023-05-03 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-07-22 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-01-09 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v1.0.2) |
+| `v1.0.3` | 2026-01-09 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-sphinx-glossary/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/club-1-flarum-ext-sphinx-glossary.json](https://github.com/flarchive/archive-index/blob/main/packages/club-1-flarum-ext-sphinx-glossary.json)
 
